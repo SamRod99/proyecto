@@ -21,12 +21,10 @@ Este proyecto es una página web tipo currículum desarrollada con HTML.
 **Carrera:** Ingeniería en Software  
 **Universidad:** Universidad de Guadalajara  
 
-## ▶️ Cómo ejecutar
+##  Cómo desplegar
 
-1. Descargar o clonar el repositorio
-2. Abrir el archivo `index.html` en cualquier navegador web
+1. Descargar o clonar el repositorio: https://github.com/SamRod99/proyecto
+2. Abrir el archivo `index.html` en cualquier navegador
 
-## 🌐 Demo
-
-Puedes ver mi perfil en GitHub aquí:  
-👉 https://github.com/SamRod99
+## Puedes ver mi perfil en GitHub aquí:  
+https://github.com/SamRod99
